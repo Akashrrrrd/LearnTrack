@@ -164,14 +164,14 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     Client Layer                             │
-│              React SPA (Web + Mobile)                        │
+│                     Client Layer                            │
+│              React SPA (Web + Mobile)                       │
 └─────────────────────────────────────────────────────────────┘
                             │
                             │ HTTPS / WebSocket
                             ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                   Application Layer                          │
+│                   Application Layer                         │
 │  ┌──────────────────────────────────────────────────────┐   │
 │  │     Node.js + Express.js + Socket.IO Server          │   │
 │  │  • REST API Endpoints                                │   │
@@ -448,7 +448,7 @@
 **Project:** LearnTrack - AI-Powered Learning Assistant  
 **Hackathon:** AI for Bharat 2026  
 **Track:** AI for Learning & Developer Productivity  
-**Team:** The Builders
+**Team:** Code Spartanz
 
 ---
 
